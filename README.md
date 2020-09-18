@@ -1,2 +1,2 @@
-# NLP_and_social_media
-This repository contains my BSc thesis project
+# Natural Language Processing on social media texts
+A BSc thesis project
